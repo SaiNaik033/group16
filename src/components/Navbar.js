@@ -10,13 +10,13 @@ const Navbar = () => {
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div className="navbar-nav">
-                        <Link className="nav-item nav-link " to="/">Home <span className="sr-only">(current)</span></Link>
-                        <Link className="nav-item nav-link" to="/login">Login</Link>
-                        <Link className="nav-item nav-link" to="/Signup">Sign up</Link>
+                        <button type="button" className="btn btn-light"><Link className="nav-item nav-link" to="/login">Login</Link></button>
+                        <button type="button" className="btn btn-light spc"><Link className="nav-item nav-link " to="/Signup">Sign up</Link></button>
                         
                     </div>
                     
                 </div>
+                
             </nav>
         </div>
     )

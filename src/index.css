@@ -11,9 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-#carousel{
-  max-height: 500px;
+
+.carousel-item img  {
+  height: 70vh;
+  width: 100vw;
 }
 .carousalImg{
   object-fit: contain !important;
+}
+.navbar{
+  height: 9vh;
+}
+.navbar-nav{
+  margin-left: 70vw;
+}
+.spc{
+  margin-left: 2vw;
+}
+.fs-1{
+  margin-left: 3vw;
+  font-size: x-large;
+}
+.btn{
+  height: 6vh;
+  width: 7vw;
 }
