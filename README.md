@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![image](https://github.com/user-attachments/assets/59f4bf3d-9d29-4f9d-910b-c630a57c8bc6)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#NODEMAILER
+Nodemailer is a popular Node.js library used to send emails from server-side applications. It supports various email transport methods, including SMTP (Simple Mail Transfer Protocol), which allows developers to easily integrate email functionality, such as sending notifications, newsletters, or verification emails. Nodemailer is flexible and customizable, supporting both plain text and HTML content, attachments, and secure connections with authentication. It's widely used due to its simplicity, robust features, and ease of configuration.
+
