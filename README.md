@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #NODEMAILER
 Nodemailer is a popular Node.js library used to send emails from server-side applications. It supports various email transport methods, including SMTP (Simple Mail Transfer Protocol), which allows developers to easily integrate email functionality, such as sending notifications, newsletters, or verification emails. Nodemailer is flexible and customizable, supporting both plain text and HTML content, attachments, and secure connections with authentication. It's widely used due to its simplicity, robust features, and ease of configuration.
 
+//03-10-2024 working on addToCart functionality
